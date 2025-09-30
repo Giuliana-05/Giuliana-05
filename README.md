@@ -8,8 +8,8 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Giuliana-05&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giuliana-05&layout=compact&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Giuliana-05&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=e91e63&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giuliana-05&layout=compact&title_color=ffffff&text_color=ffffff&bg_color=e91e63&hide_border=true" height="150"/>
 </div>
 
 ---
@@ -31,7 +31,7 @@
 
 <!-- Animação com efeito de digitação -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=F70094&center=true&vCenter=true&width=435&lines=Olá,+eu+sou+a+MaryGiu!;Back-End+Developer+%F0%9F%92%BB;Apaixonada+por+APIs,+Java,+e+Segurança+%F0%9F%94%91;Sempre+aprendendo+e+evoluindo+%E2%9A%97%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=F70094&center=true&vCenter=true&width=435&lines=Olá,+eu+sou+MariaGiuliana!;Back-End+Developer+%F0%9F%92%BB;Java,+e+Segurança+%F0%9F%94%91;Sempre+aprendendo+e+evoluindo+%E2%9A%97%EF%B8%8F" alt="Typing SVG" />
 </p>
 
 ---
