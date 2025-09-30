@@ -1,8 +1,7 @@
-<h1 align="center">👩‍💻 MaryGiu</h1>
+<h1 align="center">Maria Giuliana</h1>
 
 <p align="center">
-  Desenvolvedora <strong>Back-End</strong> apaixonada por construir APIs eficientes, seguras e escaláveis. <br>
-  <em>"Ctrl + C, Ctrl + Backend!"</em>
+  Desenvolvedora <strong>Back-End</strong> apaixonada por construir APIs eficientes, seguras e escaláveis. 
 </p>
 
 ---
@@ -27,9 +26,15 @@
 
 ---
 
-## 👾 GitHub como um jogo
+###
 
-![PacMan GitHub](https://github.com/Giuliana-05/Giuliana-05/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Giuliana-05/Giuliana-05/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Giuliana-05/Giuliana-05/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Giuliana-05/Giuliana-05/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 ---
 
