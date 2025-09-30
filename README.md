@@ -2,7 +2,7 @@
 
 <p align="center" style="color:#ffb6c1;">
   Desenvolvedora <strong>Back-End</strong> apaixonada por construir APIs eficientes, seguras e escaláveis. <br>
-  Também gosto de explorar o mundo da <strong>Segurança da Informação</strong> 🔐
+ Possuo interesse especial na área de <strong>Segurança da Informação</strong>strong>, buscando aplicar as melhores práticas para proteger dados e aplicações.🔐
 </p>
 
 ---
@@ -31,7 +31,7 @@
 
 <!-- Animação com efeito de digitação no rosa bebê -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=ffb6c1&center=true&vCenter=true&width=435&lines=Olá,+eu+sou+MariaGiuliana!;Back-End+Developer+%F0%9F%92%BB;Java,+e+Segurança+%F0%9F%94%91;Sempre+aprendendo+e+evoluindo+%E2%9A%97%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=ffb6c1&center=true&vCenter=true&width=435&lines=Olá,+eu+sou+Maria+Giuliana!;Back-End+Developer+%F0%9F%92%BB;Java,+Segurança+%F0%9F%94%91;Sempre+aprendendo+e+evoluindo+%E2%9A%97%EF%B8%8F" alt="Typing SVG" />
 </p>
 
 ---
