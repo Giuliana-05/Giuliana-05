@@ -1,7 +1,8 @@
 <h1 align="center">Maria Giuliana</h1>
 
 <p align="center">
-  Desenvolvedora <strong>Back-End</strong> apaixonada por construir APIs eficientes, seguras e escaláveis. 
+  Desenvolvedora <strong>Back-End</strong> apaixonada por construir APIs eficientes, seguras e escaláveis. <br>
+  Também gosto de explorar o mundo da <strong>Segurança da Informação</strong> 🔐
 </p>
 
 ---
@@ -26,11 +27,12 @@
 
 ---
 
-###
+## ✨ Animação Legal!
 
-<img src="https://raw.githubusercontent.com/Giuliana-05/Giuliana-05/output/snake.svg" alt="Snake animation" />
-
-###
+<!-- Animação com efeito de digitação -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=F70094&center=true&vCenter=true&width=435&lines=Olá,+eu+sou+a+MaryGiu!;Back-End+Developer+%F0%9F%92%BB;Apaixonada+por+APIs,+Java,+e+Segurança+%F0%9F%94%91;Sempre+aprendendo+e+evoluindo+%E2%9A%97%EF%B8%8F" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -40,7 +42,7 @@
 - Testes automatizados com JUnit e Mockito
 - Versionamento com Git e GitHub
 - Deploy com Docker
-
+- Interesses em Segurança da Informação (JWT, criptografia, autenticação segura)
 
 ---
 
