@@ -1,8 +1,8 @@
 <h1 align="center" style="color:#ff69b4;">Maria Giuliana</h1>
 
 <p align="center" style="color:#ffb6c1;">
-  Desenvolvedora <strong>Back-End</strong> apaixonada por construir APIs eficientes, seguras e escaláveis. <br>
- Possuo interesse especial na área de <strong>Segurança da Informação</strong>strong>, buscando aplicar as melhores práticas para proteger dados e aplicações.🔐
+  Desenvolvedora Back-End apaixonada por construir APIs eficientes, seguras e escaláveis. <br>
+ Possuo interesse especial na área de Segurança da Informação, buscando aplicar as melhores práticas para proteger dados e aplicações.🔐
 </p>
 
 ---
